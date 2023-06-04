@@ -1,2 +1,5 @@
 Entornos de desarrollo
 Programacion
+Lenguaje de Marcas
+Ingles
+Base de datos
